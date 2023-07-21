@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdillah Mufki Auzan Mubin</h1>
 <h3 align="center">A passionate Frontend Web Developer from Bandung, Indonesia</h3>
 
+![Alt text]([/path/to/img.jpg](https://www.instagram.com/p/CuwimlQp18C/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) "Optional title")
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdillahmufki&label=Profile%20views&color=0e75b6&style=flat" alt="abdillahmufki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdillahmufki" alt="abdillahmufki" /></a> </p>
