@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abdillahmufky123@gmail.com**
 
-- 📄 Know about my experiences [https://personal-site-abdillahmufki.netlify.app/](https://personal-site-abdillahmufki.netlify.app/)
+- 📄 Know about my experiences [https://personal-site-abdillahmufki.netlify.app/](https://abdillahmufkiauzan.vercel.app/)
 
 - ⚡ Fun fact **I love Art and Design, I am a student at Widyatama University, Bandung. Majoring in Informatics Engineering.**
 
