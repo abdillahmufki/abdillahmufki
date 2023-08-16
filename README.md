@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://personal-site-abdillahmufki.netlify.app/](https://personal-site-abdillahmufki.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://personal-site-abdillahmufki.netlify.app/](https://abdillahmufkiauzan.vercel.app/)
 
 - 📫 How to reach me **abdillahmufky123@gmail.com**
 
