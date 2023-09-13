@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://personal-site-abdillahmufki.netlify.app/](https://abdillahmufkiauzan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://abdillahmufkiauzan.vercel.app/](https://abdillahmufkiauzan.vercel.app/)
 
 - 📫 How to reach me **abdillahmufky123@gmail.com**
 
-- 📄 Know about my experiences [https://personal-site-abdillahmufki.netlify.app/](https://abdillahmufkiauzan.vercel.app/)
+- 📄 Know about my experiences [https://abdillahmufkiauzan.vercel.app/](https://abdillahmufkiauzan.vercel.app/)
 
 - ⚡ Fun fact **I love Art and Design, I am a student at Widyatama University, Bandung. Majoring in Informatics Engineering.**
 
