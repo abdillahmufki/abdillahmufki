@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abdillahmufky123@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn]([https://abdillahmufkiauzan.vercel.app/](https://www.linkedin.com/in/abdillah-mufki-auzan-mubin-55a873212/))
+- 📄 Know about my experiences [My Personal Site](https://www.linkedin.com/in/abdillah-mufki-auzan-mubin-55a873212/)
 
 - ⚡ Fun fact **I love Art and Design, I am a student at Widyatama University, Bandung. Majoring in Informatics Engineering.**
 
