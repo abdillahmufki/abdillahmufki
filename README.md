@@ -9,7 +9,7 @@
 
 - Gestal Center **Digital CV**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS & ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://abdillahmufkiauzan.vercel.app/](https://abdillahmufkiauzan.vercel.app/)
 
