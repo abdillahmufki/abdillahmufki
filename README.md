@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdillahmufky" target="blank"><img src="https://img.shields.io/twitter/follow/abdillahmufky?logo=twitter&style=for-the-badge" alt="abdillahmufky" /></a> </p>
 
-- Gestal Center **Digital CV**
+- Lumio.id **CMS & AMS**
 
 - 🌱 I’m currently learning **ReactJS & ExpressJS**
 
