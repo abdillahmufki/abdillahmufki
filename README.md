@@ -7,4 +7,4 @@
 - 👨‍💻 All of my projects are available at **[My Personal Site](https://abdillahmufki-portfolio.vercel.app/)**
 - 📫 How to reach me **abdillahmufky123@gmail.com**
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/abdillah-mufki-auzan-mubin-55a873212/)**
-- ⚡ Fun fact **I love Art and Design, I am a student at Widyatama University, Bandung. Majoring in Informatics Engineering.**
+- ⚡ I’m passionate about art and design. I hold a Bachelor’s degree in Informatics Engineering from Widyatama University, Bandung.
